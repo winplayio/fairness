@@ -3,7 +3,7 @@ WinPlay.io 公平性验证
 
 ## WinPlay 开奖方法
 
-* 根据区块 EOS 区块 Hash 作为种子，用提前公布的公私钥对签名
+* 根据 EOS 区块 Hash 作为种子，用提前公布的公私钥对签名
 * 对签名结果做 SHA256 得到开奖 HASH
 * 取开奖 HASH 最后 5 位数字作为开奖结果
 * 可用公式表示如下: 开奖 HASH = sha256(sign(BlockHash))
