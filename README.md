@@ -31,12 +31,12 @@ WinPlay.io 公平性验证
 
 ### 验证区块 Hash 的签名是不是正确
 
-可使用第三方工具: (https://bachvtuan.github.io/eos-key-tools/)[https://bachvtuan.github.io/eos-key-tools/]
+可使用第三方工具: [https://bachvtuan.github.io/eos-key-tools/](https://bachvtuan.github.io/eos-key-tools/)
 
 ![验证签名](verify-sign.png)
 
 ### 根据签名获得开奖 Hash
 
-可使用第三方工具: (https://emn178.github.io/online-tools/sha256.html)[https://emn178.github.io/online-tools/sha256.html]
+可使用第三方工具: [https://emn178.github.io/online-tools/sha256.html](https://emn178.github.io/online-tools/sha256.html)
 
 ![验证sha256](verify-sha256.png)
